@@ -14,7 +14,7 @@ Udemy allows anyone to create and publish courses, resulting in a diverse and ex
 **Key Features:**
 
 * **Number of courses:** 3,682
-* **Subjects:** Business Finance, Graphic Design, Musical Instruments, Web Design
+* **Subjects:** Business Finance, Graphic Design, Musical Instruments, Web Development
 * **Source:** Udemy
 * **Format:** CSV file
 * **Modifications:**
