@@ -30,4 +30,4 @@ Udemy allows anyone to create and publish courses, resulting in a diverse and ex
 * **Develop machine learning models to recommend courses to users.**
 * **Gain insights into the online learning landscape and learner preferences.**
 
-I hope this formatted response is helpful for your Jupyter Notebook!
+
