@@ -26,7 +26,7 @@ Udemy allows anyone to create and publish courses, resulting in a diverse and ex
 
 * **Explore course trends and popularity across different subjects.**
 * **Analyze course pricing and identify patterns.**
-* **Investigate the relationship between course features and ratings.**
+* **Investigate the relationship between course and prices.**
 * **Develop machine learning models to recommend courses to users.**
 * **Gain insights into the online learning landscape and learner preferences.**
 
