@@ -7,7 +7,7 @@ This dataset contains information on 3,682 courses from four subjects offered on
 * **Business Finance**
 * **Graphic Design**
 * **Musical Instruments**
-* **Web Design**
+* **Web Development**
 
 Udemy allows anyone to create and publish courses, resulting in a diverse and extensive course catalog. This dataset provides a valuable snapshot of the types of courses available on the platform, potentially useful for various analyses and insights.
 
